@@ -2,24 +2,21 @@
 
 English | [简体中文](./README.zh-CN.md)
 
-> Building long-lived AI agents that can remember, learn, plan, act, interact, and evolve.
+> Exploring long-lived AI agents that can continuously learn, evolve, and interact with humans and other agents over time.
 
 ## About Me
 
-I am primarily interested in **LLM-based Agents / Agentic AI**, with a long-term focus on intelligent agents that can operate continuously, accumulate experience, make autonomous decisions, interact naturally with humans and other agents, and continuously adapt or evolve over time.
+I am primarily interested in **LLM-based Agents / Agentic AI**, with a focus on intelligent agents that can operate over long periods of time, continuously learn, adapt, and evolve, as well as richer interaction, collaboration, and social intelligence among multiple agents.
 
-My main interests include:
+My primary interests include:
 
-- **Agent Memory & Experience Learning**
-- **Long-Horizon Planning & Decision Making**
-- **Continual / Lifelong Learning**
-- **Self-Evolving Agents**
-- **Multi-Agent Systems & Social Intelligence**
-- **Tool Use & Agent-Environment Interaction**
+* **Self-Evolving Agents** — autonomous adaptation, experience accumulation, and long-term evolution
+* **Continual / Lifelong Learning** — sustained learning and capability growth over long-term operation
+* **Multi-Agent Systems & Social Intelligence** — multi-agent interaction, collaboration, relationships, and social behavior
 
-I am also interested in supporting areas that may contribute to more capable agents:
+I also maintain broader interests in related areas of AI:
 
-**Machine Learning · Deep Learning · Reinforcement Learning · World Models · Multimodal AI · Affective Computing · LLM Post-training · AIGC**
+**AIGC · Affective Computing · Multimodal AI · World Models · Reinforcement Learning · LLM Post-training · Machine Learning · Deep Learning**
 
 ## Long-term Vision
 
